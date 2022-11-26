@@ -30,7 +30,7 @@ So we will need:
 | 2 | Configurar Amazon EC2  |
 | 3 | Installar banco no AMI  |
 | 4 | Configurar Rundeck  |
-| 5 | Criar Job para Zazer Download de Dados  |
+| 5 | Criar Job para Fazer Download de Dados  |
 | 5 | Criar Job para Acessar dados  | 
 | 5 | Criar Job para Fazer as Transformações |
 | 5 | Criar Job para Fazer as Transformações |
