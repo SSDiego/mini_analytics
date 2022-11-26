@@ -69,9 +69,17 @@ conn.commit()
 
 As you can see, our data was successfully inserted on our db.
 
+## Automating Everything
 
+Rundeck Configuration
 
+Example:
 
+```
+https://docs.rundeck.com/docs/administration/configuration/config-file-reference.html#server-settings
+```
+
+## Power Bi Visualization
 
 
 
