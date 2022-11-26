@@ -65,7 +65,7 @@ df.to_sql('tabela_ind', conn, if_exists='replace', index = False)
 conn.commit()
 ```
 
- 
+ ![](my_images/exe2.jpg)
 
 As you can see, our data was successfully inserted on our db.
 
