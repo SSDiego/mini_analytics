@@ -4,7 +4,11 @@ At my second internship I had a blessed opportunity to work with a lot of cool f
 
 I’m not going to be able to show all the aspects of this internship because there were some different levels of it, like the Agile culture and its Rites. I had my peers Devs, a product owner to which I reported my tasks progresses daily, an agile coach responsible for the team productivity and a Tech Lead making sure everyone understands the business and technicalities of our projects.
 
-My aim with this project is to emulate the business intelligence culture of Extract Data, Transform it and Load it into a database. From there we should be able to access tables using a dbms or connect to the database using other tools or languages.
+My aim with this project is to emulate the business analytics culture of Extract Data, Transform it and Load it into a database. From there we should be able to access tables using a dbms or connect to the database using other tools or languages.
+
+This is a simple BI project to show the part of the job I have done at this company. Here I tried to show not just the execution part, by also the architecture behind the activities. My main responsibilities were maintaining the Job Scheduling working properly and creating new ones when necessary. Plus, I had to do lots of queries and wandering to understand and express the business KPI. 
+
+I will be using an Electric Energy data that shows the amount of time a Company that provides Energy stayed without working during a period.
 
 So we will need:
 
