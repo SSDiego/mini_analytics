@@ -104,4 +104,4 @@ SELECT Empresa, IdAgente, Ano, Duracao_Real_Minutos as "Interrupção (Horas)"
 
 ![](my_images/exe5.jpg)
 
-
+Here we have a panel that shows the list with the value for each company, a simple bar graph that allow us to see which are the largest time lost in the Transmission Sector by company and some numbers that explain part of our table. We also could show the relationship with the main regions, the holdings and the variation over time.
