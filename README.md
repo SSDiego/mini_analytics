@@ -51,6 +51,20 @@ Now, keep in mind that all this table come from the same place, the first table,
 
 For this step we would need 3 scripts (or just one with 3 steps on it), one to download the base, one to transform it and one to load it on the database.
 
+Example:
+```
+conn = sqlite3.connect('bd_indisponibilidade')
+c = conn.cursor()
+
+c.execute('CREATE TABLE IF NOT EXISTS tabela_ind (Agente text, Contrato text, IdAgente number, Ano number, Ruracaoo_Real_Minutos number)')
+conn.commit()
+
+df = df_indisponibilidade
+
+df.to_sql('tabela_ind', conn, if_exists='replace', index = False)
+conn.commit()
+```
+
  
 
 As you can see, our data was successfully inserted on our db.
