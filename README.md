@@ -81,6 +81,13 @@ https://docs.rundeck.com/docs/administration/configuration/config-file-reference
 ```
 
 ## Power Bi Visualization
+
+```
+SELECT *
+  FROM INDISPONIBILIDADE
+  WHERE AREA_ATUACAO = 'Transmissao'
+```
+
 ![](my_images/exe5.jpg)
 
 
