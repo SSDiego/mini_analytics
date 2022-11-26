@@ -83,7 +83,7 @@ https://docs.rundeck.com/docs/administration/configuration/config-file-reference
 ## Power Bi Visualization
 
 ```
-SELECT *
+SELECT Empresa, IdAgente, Ano, Duracao_Real_Minutos as "Interrupção (Horas)"
   FROM INDISPONIBILIDADE
   WHERE AREA_ATUACAO = 'Transmissao'
 ```
