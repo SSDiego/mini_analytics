@@ -91,17 +91,3 @@ SELECT Empresa, IdAgente, Ano, Duracao_Real_Minutos as "Interrupção (Horas)"
 ![](my_images/exe5.jpg)
 
 
-
-
-
-
-
-
-
-Table
-
-| Etata  | Ação |
-| ------------- | ------------- |
-| 1  |   |
-| 2 |  |
-
