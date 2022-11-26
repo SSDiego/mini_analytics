@@ -24,12 +24,26 @@ So we will need:
 
 ![](my_images/exe1.jpg)
 
+| E  | Ação |
+| ------------- | ------------- |
+| 1  | Construir o Banco Local |
+| 2 | Configurar Amazon EC2  |
+| 3 | Installar banco no AMI  |
+| 4 | Configurar Rundeck  |
+| 5 | Criar Job para Zazer Download de Dados  |
+| 5 | Criar Job para Acessar dados  | 
+| 5 | Criar Job para Fazer as Transformações |
+| 5 | Criar Job para Fazer as Transformações |
+| 5 | Criar Job para inserir no banco |
+| 6 | Configurar ODBC para conectar Powerbi com Banco |
+| 7 | Acessar Banco com o Power Bi |
+| 8 | Criar Painel |
 
 The dream scenario would be to have a EC2 instance and inside it creating an AMI where we would install our
 
 database. For that, we would use this guide provided by amazon.
 
- ![](my_images/exe3.jpg)
+![](my_images/exe3.jpg)
 
 I already have an instance, so the next step would be to follow this guide:
 Link
