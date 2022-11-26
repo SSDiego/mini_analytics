@@ -32,9 +32,10 @@ database. For that, we would use this guide provided by amazon.
  ![](my_images/exe3.jpg)
 
 I already have an instance, so the next step would be to follow this guide:
-
+Link
+```
 ‘https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.customenv.html’
-
+```
  
 
 With a database installed we would be able to access it using a server-based database, like postgres and use it to
