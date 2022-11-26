@@ -65,7 +65,7 @@ df.to_sql('tabela_ind', conn, if_exists='replace', index = False)
 conn.commit()
 ```
 
- ![](my_images/exe2.jpg)
+![](my_images/exe2.jpg)
 
 As you can see, our data was successfully inserted on our db.
 
@@ -80,7 +80,7 @@ https://docs.rundeck.com/docs/administration/configuration/config-file-reference
 ```
 
 ## Power Bi Visualization
-
+![](my_images/exe5.jpg)
 
 
 
